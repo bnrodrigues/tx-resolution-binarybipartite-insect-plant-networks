@@ -3,7 +3,6 @@ Rodrigues, B.N. & Boscolo, D. (2020) Do bipartite binary antagonistic and mutual
 
 In order to run the first step ("_step1_several-webs_metrics.R"), you need to have the set of networks (sources decribed in Table S1 and Table S2), with insects in the columns and plants in the rows. You need to put the antagosnic matrixes in the folder "antagonism-all" and the mutulistic ones in "mutualism-all". Both folders need to be in the folder "adjMatrices". You also can change the script to work with your the directory strucuture.
 Our folder structure was: 
-
 ├───adjMatrices
 │   ├───antagonism-all
 │   └───mutualism-all
